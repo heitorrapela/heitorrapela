@@ -49,6 +49,13 @@ During my bachelor's in Computer Engineer, I cofounded the Ardurec Community and
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heitorrapela&show_icons=true&theme=gotham" alt="heitorrapela" /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrapela&show_icons=true&theme=gotham" alt="heitorrapela" />
   
  
+ 
+<h2>Kaggle Stats (Sum of different categories)</h2>
+
+<p align="center"><a href="https://www.kaggle.com/rapela"> <img src="https://kaggle-summary-card.herokuapp.com/api?user=rapela" alt="kaggle-stats"></a></p>
+
+
+
 <h2>Latest Tweets</h2>
 
 <p align="center"><a href="twitter.com/HeitorRapela"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=heitorrapela&amp;layout=wide" alt="github-readme-twitter"></a></p>
