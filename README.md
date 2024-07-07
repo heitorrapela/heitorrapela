@@ -9,6 +9,9 @@
 - 🔭 I’m currently working on my **Cross-Modal Detection**
 - 🌱 I’m currently learning **Pytorch Lightning** 
 - 📫 How to reach me: [@heitorrapela](https://twitter.com/heitorrapela) on Twitter
+- I am 3x Kaggle Expert (with one solo first place in Kaggle TPS)
+- I am also third year PhD Candidate with publications in top computer vision (CV) conferences
+- More than 10 years experience in CV
 
 <h2> Overview </h2>
 
