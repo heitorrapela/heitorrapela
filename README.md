@@ -44,21 +44,3 @@ During my bachelor's in Computer Engineer, I cofounded the Ardurec Community and
 <img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> <img height="20" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> <img height="20" src="https://img.shields.io/badge/NVIDIA-GTX1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 
 
-
-
-
-<h2>GitHub Stats</h2>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heitorrapela&show_icons=true&theme=gotham" alt="heitorrapela" /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrapela&show_icons=true&theme=gotham" alt="heitorrapela" />
-  
- 
- 
-<h2>Kaggle Stats (Sum of different categories)</h2>
-
-<p align="center"><a href="https://www.kaggle.com/rapela"> <img src="https://kaggle-summary-card.herokuapp.com/api?user=rapela" alt="kaggle-stats"></a></p>
-
-
-
-<h2>Latest Tweets</h2>
-
-<p align="center"><a href="twitter.com/HeitorRapela"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=heitorrapela&amp;layout=wide" alt="github-readme-twitter"></a></p>
