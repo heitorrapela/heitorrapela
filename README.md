@@ -6,33 +6,25 @@
 
 <br />
 
-- 🔭 I’m currently working on my **Cross-Modal Detection**
-- 🌱 I’m currently learning **Pytorch Lightning** 
 - 📫 How to reach me: [@heitorrapela](https://twitter.com/heitorrapela) on Twitter
 - I am 3x Kaggle Expert (with one solo first place in Kaggle TPS)
-- I am also third year PhD Candidate with publications in top computer vision (CV) conferences
+- I am also fourth-year PhD Candidate with publications in top computer vision (CV) conferences
 - More than 10 years experience in CV
 
 <h2> Overview </h2>
 
 
-Hi, I am Heitor Rapela, a Ph.D. student working with cross-modal detection (e.g., RGB <-> Infrared detection). My advisors are [Marco Pedersoli](https://scholar.google.com/citations?user=aVfyPAoAAAAJ) and [Eric Granger](
-https://scholar.google.com/citations?user=TmfbdagAAAAJ).
 
+I am a <b>fourth-year</b> PhD Candidate at <a href="https://www.etsmtl.ca/">ÉTS Montreal</a>, where I work in the <a href="https://www.etsmtl.ca/en/research/chairs-and-labs/distech-controls">Distech Controls Industrial Research Chair</a> project with an <a href="https://www.mitacs.ca/">MITACS</a> scholarship. I am advised by Professors <a href="https://scholar.google.ca/citations?hl=pt-BR&user=aVfyPAoAAAAJ&view_op=list_works&sortby=pubdate">Marco Pedersoli</a> and <a href="https://scholar.google.ca/citations?hl=pt-BR&user=TmfbdagAAAAJ&view_op=list_works&sortby=pubdate">Eric Granger</a>. My primary research focus is <b>computer vision</b> and <b>machine learning</b>, especially in the areas of <b>object detection</b> and <b>domain adaptation</b>. I am also a member of the <a href="https://www.centralesupelec.fr/fr/ills-international-laboratory-learning-systems">International Laboratory on Learning Systems (ILLS)</a>. <br> <br>
 
-During my bachelor's in Computer Engineer, I cofounded the Ardurec Community and the RoboCIn. At this time, I was the computer vision manager of the RoboCIn Very Small Size team.
+I did my Masters degree at <a href="https://portal.cin.ufpe.br/">CIn-UFPE</a>, advised by Professor <a href="https://hfbassani.github.io/">Hansenclever Bassani</a> . In parallel, I worked as a researcher in <a href="https://www.gov.br/cetene/pt-br">LINCS/CETENE </a> with Professor <a href="https://scholar.google.ca/citations?hl=pt-BR&user=HCGd3n0AAAAJ&view_op=list_works&sortby=pubdate">Edna Barros</a> and <a href="https://scholar.google.ca/citations?hl=pt-BR&user=w4pI_44AAAAJ&view_op=list_works"> Antonyus Pyetro</a> in the field of object detection and face recognition. By the end of my Masters, I worked as a junior data engineer at Neurotech for eight months, where I did ETL, data ingestion and implemented deep learning solutions. <br><br>
+                                
+Regarding my undergraduate studies, I accomplished my bachelor's in computer engineering at CIn-UFPE, where I had the opportunity to work in robotics with Professors <a href="https://scholar.google.ca/citations?hl=pt-BR&user=HCGd3n0AAAAJ&view_op=list_works&sortby=pubdate">Edna Barros</a> and <a href="https://scholar.google.ca/citations?hl=pt-BR&user=s14pJ00AAAAJ&view_op=list_works&sortby=pubdate">Hansenclever Bassani</a> and in computer vision with Professor <a href="https://scholar.google.ca/citations?hl=pt-BR&user=2MN8MGwAAAAJ&view_op=list_works&sortby=pubdate">Carlos Alexandre</a>. During my Bachelor's, I did an internship as a software engineer at Motorola/CIn, where I developed a parser solution for 4G wireless communication, and I co-founded <a href="https://www.robocin.com.br/en">RoboCIn</a>, the best robot competition team in Latin America. Over the course of my academic career, I have been awarded several scholarships and have won hackathons and robotics competitions. <br><br>
+                                
+I am a volunteer reviewer for <b>WACV</b>, <b>ICLR</b>, and <b>LXAI</b>, where I currently serve as <b>co-chair</b> for the <b>LXAI NeurIPS 2024 workshop</b>. In my free time, I enjoy participating in <a href="https://www.kaggle.com/rapela">Kaggle</a> competitions, playing guitar, watching anime, and drinking a good cappuccino. <br><br>
+                                
+I am currently seeking <b>internship positions</b> for 2025. Upon completing my PhD, I will explore options for the next stage of my career, whether in a postdoctoral position or in the industry. <b>Please feel free to contact me if you have any opportunities</b>. <br><br>
 
-<p> My undergrad project was about clustering with self-organizing maps using deep learning features. This work granted me a journal (Computer Vision and Image Understanding - CVIU) and helped me build confidence in my research.
-  
-  In my undergrad and Master's, I was advised by professor [Hansenclever Bassani](https://scholar.google.com/citations?user=s14pJ00AAAAJ), one of the best researchers that I know. I also worked on many side projects with professor [Edna Barros](https://scholar.google.com/citations?user=HCGd3n0AAAAJ&hl=de), like detection and recognition projects in CETENE.
-  
-  <p> After that, I continued working with computer vision but started to learn and apply machine learning techniques in personal projects and academic projects.
-  
-<p> I did my Master's degree in the field of unsupervised deep learning, which I developed with my coworker the deep clustering self-organizing maps with relevance learning. You can check in my google scholar papers. I also worked during my Master's with detection, semantic segmentation, and reinforcement learning.
-
-<p> In my spare time, I like to learn and compete @Kaggle.
-  
-  
   
   
 <h2> Languages and Tools </h2>
